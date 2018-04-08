@@ -1,0 +1,15 @@
+target
+.idea/
+.idea/*
+/.idea/*
+*.pyc
+*.swp
+.DS_Store
+/target
+target
+.class
+.project
+.classpath
+*.eclipse.*
+*.iml
+*.log.*
